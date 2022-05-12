@@ -1,7 +1,9 @@
+<!-- 
 # Git Page: https://dlittlefield81.github.io/horiseon-web/
-# GitHub: https://github.com/DLittlefield81/horiseon-web
+# GitHub: https://github.com/DLittlefield81/horiseon-web 
+-->
 
-# <Your-Project-Title>
+# Horiseon Website
 
 ## Description
 
