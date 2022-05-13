@@ -42,5 +42,5 @@ git clone https://github.com/DLittlefield81/horiseon-web
 ## Credits
 
 GIT Repository:
-Git Page: https://dlittlefield81.github.io/horiseon-web/
-GitHub: https://github.com/DLittlefield81/horiseon-web 
+- Git Page: https://dlittlefield81.github.io/horiseon-web/
+- GitHub: https://github.com/DLittlefield81/horiseon-web 
