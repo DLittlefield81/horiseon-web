@@ -39,7 +39,10 @@ git clone https://github.com/DLittlefield81/horiseon-web
 - Image Tags now contain clear alt tags
 - Section(s) Image Tags are wrapped in a figure element
 
-## Credits
+## References
+
+![Landing Page](https://github.com/DLittlefield81/horiseon-web/tree/main/assets/images/landing-page.png)
+![Changelog](https://github.com/DLittlefield81/horiseon-web/tree/main/assets/images/changelog.png)
 
 GIT Repository:
 Git Page: https://dlittlefield81.github.io/horiseon-web/
