@@ -45,5 +45,5 @@ git clone https://github.com/DLittlefield81/horiseon-web
 ![Changelog](https://github.com/DLittlefield81/horiseon-web/tree/main/assets/images/changelog.png)
 
 GIT Repository:
-Git Page: https://dlittlefield81.github.io/horiseon-web/
-GitHub: https://github.com/DLittlefield81/horiseon-web 
+- Git Page: https://dlittlefield81.github.io/horiseon-web/
+- GitHub: https://github.com/DLittlefield81/horiseon-web 
