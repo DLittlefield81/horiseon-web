@@ -1,5 +1,3 @@
-
-
 # Refactored Horiseon Landing Page
 
 ## Description
@@ -22,7 +20,11 @@ Concise, descriptive title
 - [Credits]
 
 ## Installation
-git clone https://github.com/DLittlefield81/horiseon-web
+Follow these steps to install this project on your local machine.
+* Open Bash editor
+* mkdir horiseon-web
+* cd horiseon-web
+* git clone https://github.com/DLittlefield81/horiseon-web
 
 
 ## Changes Log
@@ -44,6 +46,4 @@ git clone https://github.com/DLittlefield81/horiseon-web
 ![Landing Page](./assets/images/landing-page.png)
 ![Changelog](./assets/images/changelog.png)
 
-GIT Repository:
-- Git Page: https://dlittlefield81.github.io/horiseon-web/
-- GitHub: https://github.com/DLittlefield81/horiseon-web 
+git
